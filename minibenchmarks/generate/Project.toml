@@ -1,0 +1,17 @@
+[deps]
+ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
+ACE1pack = "8c4e8d19-0bd6-4234-8309-7210652e3178"
+ACE1x = "5cc4c08c-8782-4a30-af6d-550b302e9707"
+ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
+ASE = "51974c44-a7ed-5088-b8be-3e78c8ba416c"
+AtomsBase = "a963bdd2-2df7-4f54-a1ee-49d51e6be12a"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+ACE1x = "0.0.4"
